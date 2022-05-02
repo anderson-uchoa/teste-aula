@@ -1,4 +1,4 @@
-class BancoLista:
+class Banco_Lista:
 
     def __init__(self):
         self.contas = []
